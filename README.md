@@ -1,33 +1,33 @@
 <div align="center">
 
 <!-- EPIC ANIMATED BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ricardo%20Díaz&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full%20Stack%20Developer%20%7C%20AI%20Architect%20%7C%20Tech%20Innovator&descSize=20&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,24&height=200&section=header&text=Ricardo%20Díaz&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full%20Stack%20Developer%20%7C%20AI%20Architect%20%7C%20Tech%20Innovator&descSize=20&descAlignY=55" />
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%9A%80+Backend+%26+Full+Stack+Developer;%F0%9F%A4%96+AI+%26+Machine+Learning+Explorer;%F0%9F%94%A5+Building+Scalable+%26+Innovative+Solutions;%E2%9A%A1+Transforming+Ideas+into+Reality" alt="Typing SVG" />
+<!-- TYPING ANIMATION WITH MORE HEIGHT -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=%F0%9F%9A%80+Backend+%26+Full+Stack+Developer;%F0%9F%A4%96+AI+%26+Machine+Learning+Explorer;%F0%9F%94%A5+Building+Scalable+%26+Innovative+Solutions;%E2%9A%A1+Transforming+Ideas+into+Reality" alt="Typing SVG" />
 
-<!-- LANGUAGE SELECTOR -->
 <br/>
 
-### 🌐 Language / Idioma
+<!-- LANGUAGE SELECTOR -->
+### 🌐 Select Language / Selecciona Idioma
 
-<details>
-<summary><b>🇺🇸 English Version (Click here)</b></summary>
+<details open>
+<summary><b>🇺🇸 English Version (Click to expand/collapse)</b></summary>
 
----
+<br/>
+<br/>
 
 ## 📬 Connect With Me
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Site-FF6B6B?style=for-the-badge)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Site-FF6B6B?style=for-the-badge)](https://ricardodiazstudios.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-RenionDxD-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RenionDxD)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ricardo-diaz-developer)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricardodiazzepeda064@gmail.com)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/526181548387)
-[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-server)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hquebTdf)
 
 </div>
 
@@ -852,18 +852,15 @@ skills_roadmap = {
 
 ---
 
-<div align="center">
+</details>
 
-### 🌐 **Versión en Español** | Spanish Version
+<br/>
 
 <details>
-<summary><b>🇲🇽 Haz clic aquí para ver en Español</b></summary>
+<summary><b>🇲🇽 Versión en Español (Haz clic para expandir/colapsar)</b></summary>
 
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ricardo%20Díaz&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Desarrollador%20Full%20Stack%20%7C%20Arquitecto%20IA%20%7C%20Innovador%20Tech&descSize=20&descAlignY=55" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%9A%80+Desarrollador+Backend+%26+Full+Stack;%F0%9F%A4%96+Explorador+de+IA+%26+Machine+Learning;%F0%9F%94%A5+Construyendo+Soluciones+Escalables;%E2%9A%A1+Transformando+Ideas+en+Realidad" alt="Typing SVG" />
+<br/>
+<br/>
 
 ## 📬 Conéctate Conmigo
 
@@ -1016,4 +1013,4 @@ Integrando **tecnologías de vanguardia** en entornos de producción con impacto
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,24&height=120&section=footer" />
