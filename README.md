@@ -9,7 +9,7 @@
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-RenionDxD-181717?style=for-the-badge&logo=github)](https://github.com/RenionDxD)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/ricardo-diaz-developer)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:ricardodiazzepeda064@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/526181548387)
 
